@@ -9,6 +9,5 @@ for i in range(200):
     os.system('git commit --date=" 2021-'+str(rand)+'-'+d+'" -m 1')
 os.system('git push -u origin main')
 
-#git commit --amend --no-edit --date="Fri Nov 6 20:00:00 2015 -0600" 
-#git fetch origin master
-#git rebase origin/master
+#git commit --amend --no-edit --date="Fri Nov 12 20:00:00 2022 -0600" 
+
